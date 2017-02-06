@@ -1,0 +1,12 @@
+/* This file has a format and set rules to 
+** add a new offer in following format.
+** Offer (serial number),buy [quantity], [Product name],[Offer type] [quantity] [product name]  
+** Offer remains valid until deleted from this file. 
+** Here are some of some of the specific keywords to be used,
+** OFF - for discounts
+** FREE - goes free
+** HP - half price
+**  */
+Offer1,1 Apples,OFF 10
+Offer2,2 Soup,HP 1 Bread
+offer3,2 Milk,FREE 1 Biscuit
